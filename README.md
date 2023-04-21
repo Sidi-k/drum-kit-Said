@@ -1,2 +1,2 @@
-# drum-kit-starter on Oct 7, 2022
+# drum-kit-Oct 7, 2022
  
